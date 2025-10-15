@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Pribadi - AI & Web Developer</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        :root {
-            --dark-bg: #0a0a0a;
-            --black: #000000;
-            --red-accent: #ff0033;
-            --red-glow: rgba(255, 7, 58, 0.4);
-            --white: #ffffff;
-            --gray: #1a1a1a;
-            --light-gray: #252525;
-        }
+
         
         * {
             margin: 0;
